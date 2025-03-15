@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/FirstPerson/Headbob/Idle.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/FirstPerson/Headbob/Walk.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/FirstPerson/Headbob/Sprint.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/W_InteractionPrompt.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/BP_Interactable.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/FirstPerson/Blueprints/InteractInterface.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/EQ/7BIJIPYN1F3JIO90H8UQ1T.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/_-_.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/FirstPerson/Blueprints/Interaction_Interface.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/Note/Note_1.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/Note/Note_Widget.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/8R/95V9FU9WL2QO72N25PUYAJ.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/Note/9ffa40d7b73e2e4f91b64809ca64fae3.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/Note/Note_PlaceHolder.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/WS/X084A70TPBKFLJDCV2U5PN.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"E:/Dracula/Nowy folder/Pierwsza_osoba/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset"
+			]
+		}
+	]
+}
